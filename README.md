@@ -5,7 +5,7 @@
 
 <h3>Архитектура решения</h3>
 <ul>
-    <li><strong>Entity Framework Core</strong> - ORM для работы с данными</li>
+    <li><strong>Entity Framework Core</strong> </li>
     <li><strong>SQL Server</strong> - реляционная база данных</li>
 </ul>
 
